@@ -6,5 +6,6 @@ Files Included:
 - taylor_swift_spotify: (From Kaggle) CSV file containing Spotify analytics for Taylor Swift's tracks. The attributes include the track name, album, release date, track number, id, uri, acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, valence, popularity, and the duration in miliseconds.
 - swift_songs_cleaned: Cleaned (taylor_swift_spotify) CSV file containing Spotify analytics for Taylor Swift's tracks. The attributes include the track name, album, release date, id, uri, acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, valence, popularity, and the duration in miliseconds.
 - yashibajpai-finalproject-summary: A two page summary describing the tools used, questions asked, insights, recommendations to potential clients, and future work in this project.
+- yashibajpai-finalproject-presentation: A powerpoint presentation going over my project, purpose, methodology, tools used, questions asked, insights, recommendations to potential clients, and future work in this project.
 
 Language Used: Python
